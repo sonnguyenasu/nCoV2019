@@ -32,5 +32,5 @@ By getting the derivative, we could use gradient descent to minimize the differe
 
 However, we found it pretty fit with the current data, as the following result picture show.
 
-![final]()
+![final](https://github.com/tson1997/nCoV2019/blob/master/corona/-0.0703_and_0.1007.jpg?raw=true)
 
