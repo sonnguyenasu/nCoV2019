@@ -28,5 +28,9 @@ where V, I_inf and I_0 are function of gamma and beta
 
 Because of sigmoid-like form of the final solution, we can easily derive the partial derivative of I with respect to gamma and beta. Detail of the formula can be found in the implementation in sis.py file.
 
-By getting the derivative, we could use gradient descent to minimize the differences between actual data and the analytic solution, which is also a formula of gamma and beta. There are 270 learning epochs and the training sets only contain of days 22,23,24,25,27,30,32. However, we found it pretty fit with the current data
+By getting the derivative, we could use gradient descent to minimize the differences between actual data and the analytic solution, which is also a formula of gamma and beta. There are 270 learning epochs and the training sets only contain of days 22,23,24,25,27,30,32. 
+
+However, we found it pretty fit with the current data, as the following result picture show.
+
+![final]()
 
