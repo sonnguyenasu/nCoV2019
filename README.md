@@ -32,5 +32,8 @@ By getting the derivative, we could use gradient descent to minimize the differe
 
 However, we found it pretty fit with the current data, as the following result picture show.
 
-![final](https://github.com/tson1997/nCoV2019/blob/master/corona/-0.0703_and_0.1007.jpg?raw=true)
+First figure shows how fit the data is with the actual data 
+![final 2](https://github.com/tson1997/nCoV2019/blob/master/corona/epc/89.jpg?raw=true)
 
+Second figure shows the learning process (first subplot) and the final shape of the infectious function
+![final](https://github.com/tson1997/nCoV2019/blob/master/corona/-0.0703_and_0.1007.jpg?raw=true)
